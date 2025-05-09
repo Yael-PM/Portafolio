@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Yael-PM/static/css/main.843a1397.css",
-    "main.js": "/Yael-PM/static/js/main.681629e7.js",
-    "static/media/trendify.png": "/Yael-PM/static/media/trendify.e15746aa0986247d9820.png",
-    "static/media/trafico.jpeg": "/Yael-PM/static/media/trafico.07a192f0f485b43b0d80.jpeg",
-    "static/media/agrosims.png": "/Yael-PM/static/media/agrosims.01c75922fe5ccc3974d9.png",
-    "index.html": "/Yael-PM/index.html",
-    "main.843a1397.css.map": "/Yael-PM/static/css/main.843a1397.css.map",
-    "main.681629e7.js.map": "/Yael-PM/static/js/main.681629e7.js.map"
+    "main.css": "/Portafolio/static/css/main.843a1397.css",
+    "main.js": "/Portafolio/static/js/main.5e7348d7.js",
+    "static/media/trendify.png": "/Portafolio/static/media/trendify.e15746aa0986247d9820.png",
+    "static/media/trafico.jpeg": "/Portafolio/static/media/trafico.07a192f0f485b43b0d80.jpeg",
+    "static/media/agrosims.png": "/Portafolio/static/media/agrosims.01c75922fe5ccc3974d9.png",
+    "index.html": "/Portafolio/index.html",
+    "main.843a1397.css.map": "/Portafolio/static/css/main.843a1397.css.map",
+    "main.5e7348d7.js.map": "/Portafolio/static/js/main.5e7348d7.js.map"
   },
   "entrypoints": [
     "static/css/main.843a1397.css",
-    "static/js/main.681629e7.js"
+    "static/js/main.5e7348d7.js"
   ]
 }
