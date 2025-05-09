@@ -15,7 +15,7 @@ const HeroSection = () => {
           Soy estudiante de Ingeniería en Tecnologías Computacionales, apasionado por construir soluciones web y móviles usando tecnologías modernas.
         </p>
         <div className="buttons">
-          <a href="/cv.pdf" className="btn">Ver CV</a>
+          <a href="https://drive.google.com/file/d/12v6_tOpbMfxLZQ_cOUuTNw90pHHPWAN7/view?usp=sharing" className="btn">Ver CV</a>
           <a className="btn btn-outline" onClick={scrollToContact}>
             Contáctame
           </a>
